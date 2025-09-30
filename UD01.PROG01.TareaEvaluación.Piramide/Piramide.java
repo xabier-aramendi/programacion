@@ -1,3 +1,17 @@
+/******************************************************************************************************************
+ * 
+ * Nombre: Xabier Aramendi Gato 
+ * Fecha: 30/09/2025 
+ * Modulo: Programación. 
+ * UD: UD1 Estructuras de un programa. 
+ * Tarea: Tarea Evaluación 01. Realiza un programa en Java.
+ * 
+ * Descripción del programa: El objetivo de esta tarea es realizar un programa que visualice por consola una figura simétrica
+ * 
+ * Enlace autoevaluación:
+ * 
+ *******************************************************************************************************************/
+
 public class Piramide {
     public static void main(String[] args) {
     
