@@ -8,7 +8,7 @@
  * 
  * Descripción del programa: El objetivo de esta tarea es realizar un programa que visualice por consola una figura simétrica
  * 
- * Enlace autoevaluación:
+ * Enlace autoevaluación: https://docs.google.com/document/d/1cPPVQjJh4EwcO-GC6tNvaFzn7fMaB__lOlTh1jKkWzc/edit?usp=sharing
  * 
  *******************************************************************************************************************/
 
